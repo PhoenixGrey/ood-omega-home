@@ -1,0 +1,19 @@
+{
+  "name": "ood-omega-home",
+  "version": "0.0.0",
+  "homepage": "https://github.com/PhoenixGrey/ood-omega-home",
+  "license": "MIT",
+  "dependencies": {
+    "ood-omega": "*"
+  },
+  "devDependencies": {
+  },
+
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
