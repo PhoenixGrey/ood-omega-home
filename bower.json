@@ -4,11 +4,10 @@
   "homepage": "https://github.com/PhoenixGrey/ood-omega-home",
   "license": "MIT",
   "dependencies": {
-    "ood-omega": "*"
+    "ood-omega": "*",
+    "bootstrap": "~3.3.5"
   },
-  "devDependencies": {
-  },
-
+  "devDependencies": {},
   "ignore": [
     "**/.*",
     "node_modules",
