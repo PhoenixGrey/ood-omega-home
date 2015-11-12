@@ -1,0 +1,44 @@
+{
+  "name": "ood-omega",
+  "authors": [
+    "phoenix.grey <phoenix.lv@trantect.com>"
+  ],
+  "main": [
+    "build/dist/*.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Gruntfile.coffee",
+    "index.coffee",
+    "index.html",
+    "karmaReport.py",
+    "karmarun.sh",
+    "lib",
+    "package.json"
+  ],
+  "dependencies": {
+    "jquery": "2.1.4",
+    "angular": "~1.4.7",
+    "underscore": "1.8.3",
+    "components-font-awesome": "4.4.0",
+    "smaless": "0.1.1"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.7"
+  },
+  "homepage": "https://github.com/PhoenixGrey/OODLIB",
+  "_release": "99a54f76e8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "99a54f76e80d62fbfa4138f9e9ffe80110feca35"
+  },
+  "_source": "git://github.com/PhoenixGrey/OODLIB.git",
+  "_target": "*",
+  "_originalSource": "ood-omega"
+}
