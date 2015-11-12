@@ -1,2 +1,5 @@
 node_modules
 index.coffee
+bower_components/ood-omega/build
+bower_components/ood-omega/.bower.json
+bower_components/bootstrap/.bower.json
