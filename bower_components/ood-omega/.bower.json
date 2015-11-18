@@ -33,11 +33,11 @@
     "angular-mocks": "~1.4.7"
   },
   "homepage": "https://github.com/PhoenixGrey/OODLIB",
-  "_release": "c88ad45b8d",
+  "_release": "584c4f8c69",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "c88ad45b8db193bafc97ec0c28447fa1dd0b1ea7"
+    "commit": "584c4f8c69dd7ad09980866e8d2c582d9c4df6bc"
   },
   "_source": "git://github.com/PhoenixGrey/OODLIB.git",
   "_target": "*",
