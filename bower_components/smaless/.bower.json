@@ -1,7 +1,7 @@
 {
   "name": "smaless",
-  "version": "0.1.1",
-  "homepage": "http://emily123.github.io/smaless/",
+  "version": "0.1.2-sidebar.f3ed670",
+  "homepage": "http://belindaliu.github.io/smalessAPIDocs/",
   "authors": [
     "emily.liu@trantect.com"
   ],
@@ -13,19 +13,20 @@
   "ignore": [
     "test",
     "src",
+    "sassDoc",
     "Makefile",
     "node_modules",
     "bower_components",
     "Gruntfile.coffee",
     "package.json"
   ],
-  "_release": "0.1.1",
+  "_release": "0.1.2-sidebar.f3ed670",
   "_resolution": {
     "type": "version",
-    "tag": "0.1.1",
-    "commit": "db57b4c36325385251631e4434bf35ffa63b335c"
+    "tag": "0.1.2-sidebar.f3ed670",
+    "commit": "f4c85502ce8842d57104bd30919aaf3e781e1e27"
   },
   "_source": "git://github.com/emily123/smaless.git",
-  "_target": "0.1.1",
+  "_target": "0.1.2-sidebar.f3ed670",
   "_originalSource": "smaless"
 }

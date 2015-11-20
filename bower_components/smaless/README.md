@@ -1,4 +1,4 @@
-# [smaless](http://emily123.github.io/smaless/)
+# [smaless](http://belindaliu.github.io/smalessAPIDocs/)
 
 # Quick links
 
@@ -8,6 +8,8 @@
 > [Installation](#installation)
 
 > [Demo](#demo)
+
+> [CDN](#cdn)
 
 > [Issue](#issue)
 
@@ -39,7 +41,7 @@
 
 > ### Step 1
 ```
-    git clone git@github.com:emily123/smaless.git
+    git clone https://github.com/emily123/smaless.git
     cd smaless
 ```
 > ### Step 2
@@ -61,12 +63,19 @@
 
 >
 
+> [http://belindaliu.github.io/smalessAPIDocs/](http://belindaliu.github.io/smalessAPIDocs/)
+
+<a id="cdn"></a>
+## CDN
+
+>
+
 > [http://emily123.github.io/smaless/](http://emily123.github.io/smaless/)
 
 
 <a id="issue"></a>
 ## Issue
-
+> [https://github.com/emily123/smaless/issues](https://github.com/emily123/smaless/issues)
 
 <a id="faq"></a>
 ## FAQ

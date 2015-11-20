@@ -26,18 +26,18 @@
     "angular": "~1.4.7",
     "underscore": "1.8.3",
     "components-font-awesome": "4.4.0",
-    "smaless": "0.1.1",
+    "smaless": "0.1.2-sidebar.f3ed670",
     "angular-gettext": "2.1.2"
   },
   "devDependencies": {
     "angular-mocks": "~1.4.7"
   },
   "homepage": "https://github.com/PhoenixGrey/OODLIB",
-  "_release": "584c4f8c69",
+  "_release": "8d1b5bf03a",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "584c4f8c69dd7ad09980866e8d2c582d9c4df6bc"
+    "commit": "8d1b5bf03ac28986ff51380ad18ab8693ed28f55"
   },
   "_source": "git://github.com/PhoenixGrey/OODLIB.git",
   "_target": "*",
