@@ -10,8 +10,11 @@ html(lang='en')
     header
       .smaIcon
         img(src="")
-        p.smaName OODLIB
-        p.smaDescribe no description yet
+        p.smaName OOD Omega
+        p.smaDescribe 
+          |Object-Oriented-Design Encapsulation of Directive 
+          <br>in AngularJS 1.x
+          <br>Bridge to Angular 2 Component
     .container
       .row
         nav.col-md-3#scrollspy
@@ -21,9 +24,7 @@ html(lang='en')
             li
               a(href='#ctable') Table
             li
-              a(href='#test1') Software design pattern
-            li
-              a(href='#test2') Text
+              a(href='#Csidebar') Sidebar
               
             .modal-footer
                .line
@@ -44,11 +45,9 @@ html(lang='en')
           #ctable
             include jade/table
 
-          #test1
-            include jade/test1
+          #csidebar
+            include jade/sidebar
 
-          #test2
-            include jade/test2
 
     script(type='text/javascript' src='https://code.jquery.com/jquery-1.11.3.min.js')
     script(type='text/javascript' src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js')
