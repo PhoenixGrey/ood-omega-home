@@ -1,10 +1,17 @@
 h1 Footer
 .line
 h3 OODLIB Footer directive demo
-p.
-  a custom footer written in Jade & CoffeeScript, styled by Smaless.
-  You can modify data in Codepen.
-
+p You can simply edit footer data in CoffeeScript. 
+.bs-callout.bs-callout-info TAG<br> 
+  code &lt;cfooter&gt;
+.bs-callout.bs-callout-info 
+  |ATTRIBUTE:<br>
+  code info
+  |: It is used to connect your data. You can use three keys in data:
+  ul
+    li copyright [String]
+    li version [String]
+    li websites [Array<Dict>] link name -> key, link -> value
 p.codepen(data-height="490" data-theme-id="20824" data-slug-hash="NGEYrJ" data-default-tab="result" data-user="dglzs")
   | See the Pen 
   a(href='http://codepen.io/dglzs/pen/NGEYrJ/') Footer Directive

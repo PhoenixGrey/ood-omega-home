@@ -36,6 +36,9 @@ p {
   margin: 0 0 10px;
   font-size: 14px; }
 
+a {
+  text-decoration: none; }
+
 table {
   background-color: transparent;
   border-spacing: 0;

@@ -5,7 +5,9 @@ html(lang='en')
     meta(charset='utf-8')
     meta(name='viewport', content='width=device-width, initial-scale=1')
     link(rel='stylesheet', href='main.css')
-
+    link(rel='stylesheet', href='bower_components/bootstrap/dist/css/bootstrap.min.css')
+    link(rel='stylesheet', href='scripts/docs.min.css')
+    
   body(data-spy='scroll', data-target='#scrollspy', data-offset='20')
     header
       .smaIcon
@@ -27,18 +29,21 @@ html(lang='en')
               a(href='#Csidebar') Sidebar
               
             .modal-footer
-               .line
-               p
-                span © Made by Trantect team
+              .line
+              p
+                span Copyright 2015 © Trantect
+              p
+                span Designed by 
+                  a(href='https://github.com/emily123/smaless') Smaless 
+              //-  p
+              //-   a(href='https://github.com/PhoenixGrey/OODLIB') Visit our Github
               //-  p
               //-     a(href='#') Back to top
-               p
-                a(href='https://github.com/PhoenixGrey/OODLIB') Visit our Github
                     //-  img.gh-ico(src="src/lib/images/download.png")
           
         //- include part
         .col-md-9
-          
+        
           #cfooter
             include jade/footer
 
@@ -49,6 +54,6 @@ html(lang='en')
           //-   include jade/sidebar
 
 
-    script(type='text/javascript' src='https://code.jquery.com/jquery-1.11.3.min.js')
-    script(type='text/javascript' src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js')
+    script(type='text/javascript' src='bower_components/jquery/dist/jquery.min.js')
+    script(type='text/javascript' src='bower_components/bootstrap/dist/js/bootstrap.min.js')
     script(type='text/javascript' src='main.js')

@@ -35,7 +35,9 @@ p {
   margin: 0 0 $margin-primary;
   font-size: $font-size - 4;
 }
-
+a {
+  text-decoration: none;
+}
 table {
   background-color: transparent;
   border-spacing: 0;
